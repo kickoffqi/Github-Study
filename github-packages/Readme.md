@@ -10,3 +10,9 @@ echo $GH_TOCKEN | docker login ghcr.io -u $GH_USERNAME --password-stdin
 docker tag hello-world:latest $TAG_NAME
 
 docker push $TAG_NAME
+
+
+This file is for demo only.
+
+Help me
+
