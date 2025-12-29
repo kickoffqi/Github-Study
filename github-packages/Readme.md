@@ -11,6 +11,7 @@ docker tag hello-world:latest $TAG_NAME
 
 docker push $TAG_NAME
 
+add one more thing!
 
 This file is for demo only.
 
